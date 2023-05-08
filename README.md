@@ -54,3 +54,4 @@ Before we shortlist a suitable candidate for the role, we conduct a role-specifi
 ## Troubleshooting :hammer_and_wrench:
 
 - [Speak to us](https://book.morgen.so/suleyman32/introductory-call-with-su)
+- [FAQs](https://www.tech.mygrowthbuddy.com/faq)
